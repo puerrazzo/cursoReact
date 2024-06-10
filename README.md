@@ -1,1 +1,1 @@
-# cursoReact para subir desde local
+# cursoReact para subir desde local. Editado en la rama nueva-doc
